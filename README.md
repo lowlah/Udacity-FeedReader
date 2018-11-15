@@ -1,2 +1,4 @@
 # Udacity-FeedReader
-This is my repository for the udacity feed reader project
+This is my repository for the udacity feed reader testing project using Jasmine.
+## Instructions
+
